@@ -29,6 +29,8 @@ body{
 .encabezado ul{
     list-style: none;
 }
+
+
 .contenido{
   margin-left: 230px;
   padding: 20px;
@@ -56,6 +58,9 @@ body{
     text-align: right;
     position: relative; bottom: 260px; right: 220px;
 }
+
+
+
 .habilidades{
     box-shadow: 0 1px 5px burlywood;
     bottom: auto;
@@ -107,6 +112,9 @@ body{
     justify-content: center;
     gap: 90px;
 }
+
+
+
 .formacion {
     box-shadow: 0 1px 5px burlywood;
     bottom: auto;
@@ -138,7 +146,6 @@ body{
 .formacion .asideimg{
     text-align: right;
     position: relative; bottom: 110px; right: 220px;
-
 }
 .formacion .div01{
     display: flexbox;
@@ -150,5 +157,42 @@ body{
     box-shadow: 0 1px 5px ;
     font-size: 12px;
     padding: 12px;
+}
+
+
+.proyecto{
+    box-shadow: 0 1px 5px burlywood;
+    bottom: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(52, 186, 220);
+}
+.proyecto h2{
+    text-align: center;
+}
+.proyecto .div03{
+    background-color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px ;
+    font-size: 12px;
+    padding: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.proyecto .div03 p{
+    padding-left: 250px;
+}
+.proyecto .div03 h3{
+    text-align: center;
+}
+.proyecto .div03 img{
+    position: absolute;
+    width: 200px;
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(6, 5, 16, 0.84);
+}
+.proyecto .asideimg{
+    text-align: right;
+    position: relative; right: 760px; bottom: 150px;
 }
 
