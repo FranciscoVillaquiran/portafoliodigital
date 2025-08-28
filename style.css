@@ -40,7 +40,7 @@ body{
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 10px;
-    background-color: rgba(94, 195, 220, 0.842);
+    background-color: antiquewhite;
     position: relative;
 }
 .Biografia div{
@@ -62,7 +62,7 @@ body{
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 10px;
-    background-color: rgba(94, 195, 220, 0.842);
+    background-color: rgb(52, 186, 220);
 }
 .habilidades h2{
     text-align: center;
