@@ -107,4 +107,48 @@ body{
     justify-content: center;
     gap: 90px;
 }
+.formacion {
+    box-shadow: 0 1px 5px burlywood;
+    bottom: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(52, 186, 220);
+}
+.formacion h2{
+    text-align: center;
+}
+.formacion .div03 p{
+    padding-right: 250px;
+}
+.formacion .div03 {
+    background-color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px ;
+    font-size: 12px;
+    padding: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.formacion .div03 img{
+    position: absolute;
+    width: 200px;
+    border-radius: 12px;
+    box-shadow: 0 1px 5px rgba(6, 5, 16, 0.84);
+}
+.formacion .asideimg{
+    text-align: right;
+    position: relative; bottom: 110px; right: 220px;
+
+}
+.formacion .div01{
+    display: flexbox;
+    gap: 7px;
+}
+.formacion .div02{
+    background-color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px ;
+    font-size: 12px;
+    padding: 12px;
+}
 
