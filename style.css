@@ -2,7 +2,7 @@ body{
     background-color: #f5f7fa;
 }
 .encabezado{
-    background-color: black;
+    background-color: rgba(6, 5, 16, 0.84);
     color: white;
     height: 100vh;
     padding-top: 20px;
@@ -40,7 +40,7 @@ body{
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 10px;
-    background-color: antiquewhite;
+    background-color: rgb(52, 186, 220);;
     position: relative;
 }
 .Biografia div{
@@ -91,5 +91,20 @@ body{
     width: 225px;
     border-radius: 15px;
     padding: 10px;
+}
+.habilidades .div03{
+    background-color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px ;
+    font-size: 12px;
+    padding: 12px;
+}
+.habilidades .div03 .h2{
+    text-align: center;
+}
+.habilidades .div04{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
 }
 
